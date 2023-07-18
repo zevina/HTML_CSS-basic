@@ -256,6 +256,7 @@ a {
     font-style: normal;
     font-weight: 600;
     line-height: 160%;
+    opacity: 0.7;
     /* 25.6px */
     margin-bottom: 20px;
 }
